@@ -19,7 +19,7 @@ This is a Progressive Web Application (PWA) developed to utilize Webpack, Servic
 
 To view this project, it requires a browser to be installed on your preferred device. The browser can be any one of your choosing. To view, enter the following URL to the address bar of said browser:
 
-https://tinathedev91.github.io/Portfolio/ 
+https://text-editor-tlc-e60a5fee4c44.herokuapp.com/
 
 ## Usage
 
