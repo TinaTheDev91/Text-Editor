@@ -44,7 +44,7 @@ export const getDb = async (id) => {
 
   const result = await request;
   console.log('result.value', result);
-  return result;
+  return result.value;
 };
 
 // console.error('getDb not implemented');
